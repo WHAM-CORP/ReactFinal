@@ -1,0 +1,29 @@
+.menuContainer{
+    width: 70%;
+    position: relative;
+}
+.menu{
+    display: flex;
+    position:absolute;
+    right: 100px;
+}
+.menu li{
+    text-align: right;
+    right: 20px;
+    list-style: none;
+    padding: 20px;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+
+.menu li:hover{
+    background-color: black;
+    color: white;
+}
+.datos{
+    color: burlywood;
+    text-decoration: none;
+}
+.datos:hover{
+    color: white;
+}

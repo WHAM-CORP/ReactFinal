@@ -1,0 +1,10 @@
+.mainContainer{
+    width:90%;
+    margin: auto;
+}
+.detalles{
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}

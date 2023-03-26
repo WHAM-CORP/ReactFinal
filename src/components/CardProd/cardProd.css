@@ -1,0 +1,22 @@
+.prodCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+.CardProdCont{
+    border: 1px solid black;
+    width: 30%;
+    height: 350px;
+    text-align: center;
+    margin: 10px;
+}
+.imageProd{
+    width: 200px;
+    height: 200px;
+}
+.prodTitle{
+    color: brown;
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
